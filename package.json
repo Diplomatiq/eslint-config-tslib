@@ -31,7 +31,7 @@
   },
   "files": [
     "index.js",
-    ".eslintrc.json"
+    "eslintrc.json"
   ],
   "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.19.2",
