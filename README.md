@@ -1,6 +1,6 @@
 # eslint-config-tslib
 
-ESLint configuration for TypeScript libraries
+ESLint configuration for TypeScript libraries.
 
 ---
 
