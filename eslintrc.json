@@ -20,11 +20,7 @@
     "plugins": ["@typescript-eslint/eslint-plugin", "import", "promise"],
     "rules": {
         "no-console": ["error"],
-        "no-extra-parens": [
-            "error",
-            "all",
-            { "enforceForArrowConditionals": false }
-        ],
+        "no-extra-parens": "off",
         "no-import-assign": ["error"],
         "no-template-curly-in-string": ["error"],
         "curly": ["error", "all"],
@@ -104,6 +100,11 @@
         "@typescript-eslint/explicit-member-accessibility": [
             "error",
             { "accessibility": "explicit" }
+        ],
+        "@typescript-eslint/no-extra-parens": [
+            "error",
+            "all",
+            { "enforceForArrowConditionals": false }
         ],
         "@typescript-eslint/prefer-for-of": ["error"],
         "@typescript-eslint/prefer-readonly": ["error"],
