@@ -38,7 +38,7 @@ If you request a feature, use the [Feature request](https://github.com/Diplomati
 
 The following guidelines make easier to maintain a high-quality code base.
 
-1. Branch from `develop` (not from `master`).
+1. Branch from `master`.
 2. Create your improvement to the code base.
 
     - Make sure to follow the [style guide](#style-guide).
