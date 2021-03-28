@@ -1,6 +1,6 @@
 {
     "name": "@diplomatiq/eslint-config-tslib",
-    "version": "5.0.0",
+    "version": "5.0.1",
     "description": "ESLint configuration for TypeScript libraries.",
     "main": "index.js",
     "repository": {
